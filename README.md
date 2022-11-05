@@ -1,6 +1,6 @@
 # The-Dump-Truck-Problem
 Computer Simulation. The dump truck problem
-+
++ 
 + Example of Discrete Event System Simulation (Fifth Edition) book.
 +
 + Six dump trucks are used to haul coal from the entrance of a small mine to the railroad. Each truck is loaded by one of two loaders. After a loading, the truck immediately moves to the scale, to be weighed as soon as possible. Both the loaders and the scale have a first-come-first-served waiting line (or queue) for trucks. Travel time from a loader to the scale is considered negligible. After being weighed, a truck begins a travel time (during which time the truck unloads) and then afterward returns to the loader queue.
